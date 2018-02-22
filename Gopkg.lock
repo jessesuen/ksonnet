@@ -557,6 +557,7 @@
   revision = "4972c8e335e32ab65ba45bde0a99c6544c8a8e4c"
 
 [[projects]]
+  branch = "release-5.0"
   name = "k8s.io/client-go"
   packages = [
     "discovery",
@@ -588,8 +589,7 @@
     "util/integer",
     "util/jsonpath"
   ]
-  revision = "2ae454230481a7cb5544325e12ad7658ecccd19b"
-  version = "v5.0.1"
+  revision = "04b7cf8ad6185c7168751d613c638c94f60711be"
 
 [[projects]]
   branch = "master"
@@ -600,6 +600,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "3ec216adf8721873a210ca86de7f6477993f990d180563ba88a2e167a0b7be88"
+  inputs-digest = "0549da2a9e7af4b08286407e691445f8b338cd71bd554cc600be0f1c90b30934"
   solver-name = "gps-cdcl"
   solver-version = 1

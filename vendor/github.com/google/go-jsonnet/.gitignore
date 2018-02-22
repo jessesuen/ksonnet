@@ -1,7 +1,0 @@
-*~
-coverage.out
-.*.swp
-/tests_path.source
-/jsonnet/jsonnet
-*.so
-*.prof
